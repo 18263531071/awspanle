@@ -882,7 +882,7 @@ export default function App() {
       </div>
       <div>
         <Stack sx={{ m: 2 }} spacing={2} direction="row">
-          <Link underline="hover" variant="body2" href="https://github.com/hiDandelion/shizuku-launcher-next">访问项目仓库</Link>
+          <Link underline="hover" variant="body2" href="https://www.qingyuge.top/">购买商店</Link>
         </Stack>
       </div>
       <div>
